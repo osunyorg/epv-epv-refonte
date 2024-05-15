@@ -24,7 +24,11 @@ items:
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
-  children: []
+  children:
+  - title: Le réseau excellence en France
+    target: "/fr/lassociation/le-reseau-excellence-en-france/"
+    kind: page
+    children: []
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
