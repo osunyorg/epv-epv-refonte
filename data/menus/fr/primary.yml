@@ -29,12 +29,4 @@ items:
   target: "/fr/agenda/"
   kind: page
   children: []
-- title: Portraits d'EPV
-  target: "/fr/portraits-depv/"
-  kind: page
-  children: []
-- title: Projets d'exception
-  target: "/fr/projets-dexception/"
-  kind: page
-  children: []
 
