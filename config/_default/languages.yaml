@@ -12,7 +12,10 @@ en:
         contact@anepv.fr
       linkedin: >-
         https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
+      youtube: >-
+        https://www.youtube.com/@associationnationaleepv3156
   permalinks:
+    posts: /posts/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
@@ -42,7 +45,10 @@ fr:
         contact@anepv.fr
       linkedin: >-
         https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
+      youtube: >-
+        https://www.youtube.com/@associationnationaleepv3156
   permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
