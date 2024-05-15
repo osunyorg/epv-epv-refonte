@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/fr/agenda/"
-  kind: page
-  children: []
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
@@ -29,6 +21,14 @@ items:
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
     children: []
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
 - title: Portraits d'EPV
   target: "/fr/portraits-depv/"
   kind: page
