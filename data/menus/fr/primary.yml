@@ -28,5 +28,13 @@ items:
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
+  children:
+  - title: Candidater au label
+    target: "/fr/le-label-epv/candidater-au-label/"
+    kind: page
+    children: []
+- title: Portraits d'EPV
+  target: "/fr/portraits-depv/"
+  kind: page
   children: []
 
