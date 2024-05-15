@@ -25,4 +25,8 @@ items:
   target: "/fr/lassociation/"
   kind: page
   children: []
+- title: Le label EPV
+  target: "/fr/le-label-epv/"
+  kind: page
+  children: []
 
