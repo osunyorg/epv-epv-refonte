@@ -21,6 +21,22 @@ items:
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
     children: []
+- title: Actions et engagements
+  target: "/fr/actions-et-engagements/"
+  kind: page
+  children:
+  - title: Fédérer
+    target: "/fr/actions-et-engagements/federer/"
+    kind: page
+    children: []
+  - title: Développer
+    target: "/fr/actions-et-engagements/developper/"
+    kind: page
+    children: []
+  - title: Rayonner
+    target: "/fr/actions-et-engagements/rayonner/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
