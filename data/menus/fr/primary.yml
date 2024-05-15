@@ -8,11 +8,7 @@ items:
   - title: Le réseau excellence en France
     target: "/fr/lassociation/le-reseau-excellence-en-france/"
     kind: page
-    children:
-    - title: Pays de la Loire
-      target: "/fr/lassociation/le-reseau-excellence-en-france/pays-de-la-loire/"
-      kind: page
-      children: []
+    children: []
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
