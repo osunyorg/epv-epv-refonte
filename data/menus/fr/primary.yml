@@ -21,4 +21,8 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
+- title: L'association
+  target: "/fr/lassociation/"
+  kind: page
+  children: []
 
