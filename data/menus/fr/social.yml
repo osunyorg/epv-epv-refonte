@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Contactez-nous
+  target: mailto:contact@anepv.fr
+  kind: url
+  children: []
 
