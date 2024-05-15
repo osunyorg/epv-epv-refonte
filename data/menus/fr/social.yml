@@ -5,4 +5,8 @@ items:
   target: mailto:contact@anepv.fr
   kind: url
   children: []
+- title: Linkedin
+  target: https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
+  kind: url
+  children: []
 
