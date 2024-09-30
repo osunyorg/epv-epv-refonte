@@ -15,11 +15,12 @@ en:
       youtube: >-
         https://www.youtube.com/@associationnationaleepv3156
   permalinks:
-    posts: /posts/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
+    posts: /posts/:year-:month-:day-:slug/
+    posts_categories: /posts/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -48,11 +49,12 @@ fr:
       youtube: >-
         https://www.youtube.com/@associationnationaleepv3156
   permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
