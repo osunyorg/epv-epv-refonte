@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   Accueil
 url: "/fr/"
+slug: ""
 date: 2024-05-15T14:52:58+02:00
 lastmod: 2024-09-30T11:07:50+02:00
 meta:
   hugo:
     permalink: "/fr/"
+    path: "/"
     file: "content/fr/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2024-05-15T14:52:58+02:00
@@ -174,14 +175,15 @@ contents:
 
       layout: grid
       pages:
-        - path: "/fr/portraits-depv/"
+        - permalink: "/fr/portraits-depv/"
+          path: "/pages/portraits-depv"
           slug: "portraits-depv"
-          file: "pages/portraits-depv/_index.html"
-          external: false
-        - path: "/fr/projets-dexception/"
+          file: "content/fr/pages/portraits-depv/_index.html"
+        - permalink: "/fr/projets-dexception/"
+          path: "/pages/projets-dexception"
           slug: "projets-dexception"
-          file: "pages/projets-dexception/_index.html"
-          external: false
+          file: "content/fr/pages/projets-dexception/_index.html"
+
 
 
   - kind: block
@@ -207,10 +209,23 @@ contents:
         summary: true
 
       posts:
-        - "2024/2024-05-11-salon-des-entreprises-du-patrimoine-vivant-a-lyon"
-        - "2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
-        - "2024/2024-04-04-remise-du-diplome-epv-a-la-prefecture-de-region-doccitanie"
-        - "2024/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais"
+        - permalink: "/fr/actualites/2024-05-11-salon-des-entreprises-du-patrimoine-vivant-a-lyon/"
+          path: "/posts/2024/2024-05-11-salon-des-entreprises-du-patrimoine-vivant-a-lyon"
+          slug: "salon-des-entreprises-du-patrimoine-vivant-a-lyon"
+          file: "content/fr/posts/2024/2024-05-11-salon-des-entreprises-du-patrimoine-vivant-a-lyon.html"
+        - permalink: "/fr/actualites/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains/"
+          path: "/posts/2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
+          slug: "la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
+          file: "content/fr/posts/2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains.html"
+        - permalink: "/fr/actualites/2024-04-04-remise-du-diplome-epv-a-la-prefecture-de-region-doccitanie/"
+          path: "/posts/2024/2024-04-04-remise-du-diplome-epv-a-la-prefecture-de-region-doccitanie"
+          slug: "remise-du-diplome-epv-a-la-prefecture-de-region-doccitanie"
+          file: "content/fr/posts/2024/2024-04-04-remise-du-diplome-epv-a-la-prefecture-de-region-doccitanie.html"
+        - permalink: "/fr/actualites/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais/"
+          path: "/posts/2024/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais"
+          slug: "linma-devient-linstitut-pour-les-savoir-faire-francais"
+          file: "content/fr/posts/2024/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais.html"
+
 
 
   - kind: block
