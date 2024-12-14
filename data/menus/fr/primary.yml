@@ -9,7 +9,9 @@ items:
     target: "/fr/lassociation/le-reseau-excellence-en-france/"
     kind: page
     children: []
+    path: "/pages/lassociation/le-reseau-excellence-en-france"
     file: content/fr/pages/lassociation/le-reseau-excellence-en-france/_index.html
+  path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Le label EPV
   target: "/fr/le-label-epv/"
@@ -19,7 +21,9 @@ items:
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
     children: []
+    path: "/pages/le-label-epv/candidater-au-label"
     file: content/fr/pages/le-label-epv/candidater-au-label/_index.html
+  path: "/pages/le-label-epv"
   file: content/fr/pages/le-label-epv/_index.html
 - title: Actions et engagements
   target: "/fr/actions-et-engagements/"
@@ -29,26 +33,32 @@ items:
     target: "/fr/actions-et-engagements/federer/"
     kind: page
     children: []
+    path: "/pages/actions-et-engagements/federer"
     file: content/fr/pages/actions-et-engagements/federer/_index.html
   - title: Développer
     target: "/fr/actions-et-engagements/developper/"
     kind: page
     children: []
+    path: "/pages/actions-et-engagements/developper"
     file: content/fr/pages/actions-et-engagements/developper/_index.html
   - title: Rayonner
     target: "/fr/actions-et-engagements/rayonner/"
     kind: page
     children: []
+    path: "/pages/actions-et-engagements/rayonner"
     file: content/fr/pages/actions-et-engagements/rayonner/_index.html
+  path: "/pages/actions-et-engagements"
   file: content/fr/pages/actions-et-engagements/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 
