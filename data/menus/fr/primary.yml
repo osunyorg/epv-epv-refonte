@@ -4,10 +4,12 @@ items:
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
+  new_tab: false
   children:
   - title: Le réseau excellence en France
     target: "/fr/lassociation/le-reseau-excellence-en-france/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/le-reseau-excellence-en-france"
     file: content/fr/pages/lassociation/le-reseau-excellence-en-france/_index.html
@@ -16,10 +18,12 @@ items:
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
+  new_tab: false
   children:
   - title: Candidater au label
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/le-label-epv/candidater-au-label"
     file: content/fr/pages/le-label-epv/candidater-au-label/_index.html
@@ -28,22 +32,26 @@ items:
 - title: Actions et engagements
   target: "/fr/actions-et-engagements/"
   kind: page
+  new_tab: false
   children:
   - title: Fédérer
     target: "/fr/actions-et-engagements/federer/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/federer"
     file: content/fr/pages/actions-et-engagements/federer/_index.html
   - title: Développer
     target: "/fr/actions-et-engagements/developper/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/developper"
     file: content/fr/pages/actions-et-engagements/developper/_index.html
   - title: Rayonner
     target: "/fr/actions-et-engagements/rayonner/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/rayonner"
     file: content/fr/pages/actions-et-engagements/rayonner/_index.html
@@ -52,12 +60,14 @@ items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
